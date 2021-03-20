@@ -1,0 +1,5 @@
+# My Custom values for Helm Chart
+container:
+  image: 27092006/k8sphp:v4
+
+replicaCount: 4
